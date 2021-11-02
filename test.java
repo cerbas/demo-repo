@@ -1,4 +1,6 @@
 
+// This is the hello class 
+
 public class hello {
 
 	int id;
